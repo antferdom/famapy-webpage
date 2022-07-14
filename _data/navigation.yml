@@ -1,9 +1,0 @@
-main:
-  - title: "Components"
-    url: /posts/
-  - title: "FAQ"
-    url: /categories/
-  - title: "Research"
-    url: /tags/
-  - title: "About"
-    url: /about/
