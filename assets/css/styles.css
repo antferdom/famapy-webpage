@@ -69,3 +69,23 @@ body {
   text-align: center;
 }
 
+#core-github {
+  font-size: 13px;
+}
+
+#fm-metamodel-github {
+  font-size: 13px;
+}
+
+#pysat-metamodel-github {
+  font-size: 13px;
+}
+
+#core-description {
+  font-family: Montserrat, sans-serif;
+  font-weight: 200;
+}
+
+#plugins {
+}
+
